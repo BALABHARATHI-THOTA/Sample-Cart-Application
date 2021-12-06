@@ -1,0 +1,23 @@
+C:\Program Files\MongoDB\Server\5.0\bin
+
+
+groups
+
+name: sring
+description
+isactive
+
+
+categories
+name : stri
+des : dr
+group_id : fk
+isactive: boo
+
+products
+
+name
+des
+image_url : string
+cat_id: fk
+isactive: bool
